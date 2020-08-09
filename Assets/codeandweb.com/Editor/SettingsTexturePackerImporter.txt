@@ -1,0 +1,24 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/Sprites/cursor.tpsheet
+- Assets/Sprites/QTE Circle/circle_endtime.tpsheet
+- Assets/Sprites/QTE Circle/circle_success.tpsheet
+- Assets/Sprites/QTE Circle/qte_fail.tpsheet
+- Assets/Sprites/QTE Circle/qte_timer.tpsheet
+- Assets/Sprites/QTE Circle/qte_timer_selected.tpsheet
+textureFileNames:
+- Assets/Sprites/cursor.png
+- Assets/Sprites/QTE Circle/circle_endtime.png
+- Assets/Sprites/QTE Circle/circle_success.png
+- Assets/Sprites/QTE Circle/qte_fail.png
+- Assets/Sprites/QTE Circle/qte_timer.png
+- Assets/Sprites/QTE Circle/qte_timer_selected.png
+normalmapFileNames:
+- 
+- 
+- 
+- 
+- 
+- 
+enableDebugOutput: 0

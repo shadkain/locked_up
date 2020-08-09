@@ -1,0 +1,382 @@
+fileFormatVersion: 2
+guid: b8a34bd020cd445d1967e1d070a87ed0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5432829632550027852
+    second: fail-0
+  - first:
+      213: -6379755754181714335
+    second: fail-1
+  - first:
+      213: -322857968687410773
+    second: fail-2
+  - first:
+      213: -5382106581904141629
+    second: fail-3
+  - first:
+      213: 1927448800181201151
+    second: fail-4
+  - first:
+      213: -5743684091424448461
+    second: fail-5
+  - first:
+      213: -4534455802109792604
+    second: fail-6
+  - first:
+      213: -423542449958748732
+    second: fail-7
+  - first:
+      213: 9050424267843194576
+    second: fail-8
+  - first:
+      213: -8492648951931193650
+    second: fail-9
+  - first:
+      213: 667965370871147377
+    second: fail-10
+  - first:
+      213: 4248419065908884218
+    second: fail-11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fail-0
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 975
+        width: 197
+        height: 205
+      alignment: 9
+      pivot: {x: 0.49238577, y: 0.49756098}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c424c5534c9456b40800000000000000
+      internalID: 5432829632550027852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fail-1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 369
+        width: 202
+        height: 201
+      alignment: 9
+      pivot: {x: 0.5049505, y: 0.5124378}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e9e3661fd8677a0800000000000000
+      internalID: -6379755754181714335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fail-2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 771
+        width: 197
+        height: 204
+      alignment: 9
+      pivot: {x: 0.48730963, y: 0.50980395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba19b77536af48bf0800000000000000
+      internalID: -322857968687410773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fail-3
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 571
+        width: 188
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5053192, y: 0.505}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c2df42549aee45b0800000000000000
+      internalID: -5382106581904141629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fail-4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 197
+        height: 189
+      alignment: 9
+      pivot: {x: 0.5025381, y: 0.48677248}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff8ad81c87cafba10800000000000000
+      internalID: 1927448800181201151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fail-5
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 380
+        width: 196
+        height: 191
+      alignment: 9
+      pivot: {x: 0.50510204, y: 0.5026178}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 330659c00c55a40b0800000000000000
+      internalID: -5743684091424448461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fail-6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 174
+        width: 200
+        height: 195
+      alignment: 9
+      pivot: {x: 0.49, y: 0.51282054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae6989f8706211c0800000000000000
+      internalID: -4534455802109792604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fail-7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 974
+        width: 200
+        height: 206
+      alignment: 9
+      pivot: {x: 0.495, y: 0.5145631}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cdf8e2c2664f1af0800000000000000
+      internalID: -423542449958748732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fail-8
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 189
+        width: 196
+        height: 191
+      alignment: 9
+      pivot: {x: 0.48979592, y: 0.4973822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de4e5f9be0999d70800000000000000
+      internalID: 9050424267843194576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fail-9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 570
+        width: 203
+        height: 201
+      alignment: 9
+      pivot: {x: 0.5073892, y: 0.5074627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec63c0236cc042a80800000000000000
+      internalID: -8492648951931193650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fail-10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 771
+        width: 195
+        height: 203
+      alignment: 9
+      pivot: {x: 0.4871795, y: 0.49261084}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b690d37f6154900800000000000000
+      internalID: 667965370871147377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fail-11
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1179
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 125, y: -124}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af2fe70a1aa65fa30800000000000000
+      internalID: 4248419065908884218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

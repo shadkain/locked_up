@@ -1,0 +1,382 @@
+fileFormatVersion: 2
+guid: 3e89ded1a55904d608d3b55b0b83ede8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5782275817722922578
+    second: endtime-0
+  - first:
+      213: -7703755353481565048
+    second: endtime-1
+  - first:
+      213: -8280010430308773142
+    second: endtime-2
+  - first:
+      213: -7567451560535122858
+    second: endtime-3
+  - first:
+      213: 4261312144811749469
+    second: endtime-4
+  - first:
+      213: -5518987887330155653
+    second: endtime-5
+  - first:
+      213: 4667700629727919480
+    second: endtime-6
+  - first:
+      213: -5606704159245391118
+    second: endtime-7
+  - first:
+      213: -6085425654252954198
+    second: endtime-8
+  - first:
+      213: 3326880825247980274
+    second: endtime-9
+  - first:
+      213: 3815062712610441821
+    second: endtime-10
+  - first:
+      213: 5327833386374916930
+    second: endtime-11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: endtime-0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 265
+        width: 191
+        height: 195
+      alignment: 9
+      pivot: {x: 0.52879584, y: 0.51282054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea93b4397ca31cfa0800000000000000
+      internalID: -5782275817722922578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endtime-1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 87
+        width: 172
+        height: 178
+      alignment: 9
+      pivot: {x: 0.4883721, y: 0.5224719}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ca73f7253c61590800000000000000
+      internalID: -7703755353481565048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endtime-2
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 294
+        width: 170
+        height: 166
+      alignment: 9
+      pivot: {x: 0.49411765, y: 0.5060241}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae29aec026e771d80800000000000000
+      internalID: -8280010430308773142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endtime-3
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 142
+        width: 157
+        height: 152
+      alignment: 9
+      pivot: {x: 0.4968153, y: 0.5263158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c145756e20bf690800000000000000
+      internalID: -7567451560535122858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endtime-4
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1
+        width: 130
+        height: 141
+      alignment: 9
+      pivot: {x: 0.50769234, y: 0.5248227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d50ff8c71d8332b30800000000000000
+      internalID: 4261312144811749469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endtime-5
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 13
+        width: 131
+        height: 129
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.48062015}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b73a000e1cd9863b0800000000000000
+      internalID: -5518987887330155653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endtime-6
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 157
+        width: 113
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5575221, y: 0.5221239}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87dbcc00ef007c040800000000000000
+      internalID: 4667700629727919480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endtime-7
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 364
+        width: 106
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5416667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa2973d54cf032b0800000000000000
+      internalID: -5606704159245391118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endtime-8
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 270
+        width: 94
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5106383, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad14330c993c8ba0800000000000000
+      internalID: -6085425654252954198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endtime-9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 14
+        width: 69
+        height: 73
+      alignment: 9
+      pivot: {x: 0.5652174, y: 0.5205479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fad6f6eb747b2e20800000000000000
+      internalID: 3326880825247980274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endtime-10
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 40
+        width: 47
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5106383, y: 0.5106383}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5acbf4f253d1f430800000000000000
+      internalID: 3815062712610441821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: endtime-11
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 459
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 125, y: -124}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24be751ac3440f940800000000000000
+      internalID: 5327833386374916930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
